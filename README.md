@@ -10,3 +10,6 @@ View the [Jupyter Notebook here](https://github.com/SoManyDistractions/Data-Anal
 
 ## Preview: 3d Scatterplot of the Latitude and Longitude 
 ![Scatterplot](https://github.com/SoManyDistractions/Data-Analysis--My-Morning-Hike/blob/main/scatterplot.png?raw=true)
+
+### Google Maps View:
+![googlemaps](https://github.com/SoManyDistractions/Data-Analysis--My-Morning-Hike/blob/main/googlemaps.png?raw=true)
